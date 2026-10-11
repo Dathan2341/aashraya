@@ -1,0 +1,11 @@
+.gradle/
+.kotlin/
+**/build/
+local.properties
+tools/
+*.jks
+*.keystore
+build_phase1.bat
+build_phase1.ps1
+download_toolchain.py
+setup_android.ps1
